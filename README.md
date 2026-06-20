@@ -21,3 +21,13 @@ aprendiendo git fetch
 
 ---------
 cambios developer01 
+
+---------
+
+https://www.markdownguide.org/cheat-sheet/
+https://mermaid.live/
+
+
+
+
+
